@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  sub.cpp
+LINK : fatal error LNK1104: cannot open file 'opencv_background_segm2413d.lib'
